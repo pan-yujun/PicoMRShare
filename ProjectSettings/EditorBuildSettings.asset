@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MRShareScene.unity
+    guid: 707e9d2554f82634882372fc6a04d227
+  m_configObjects:
+    Unity.XR.PICO.LivePreview.Settings: {fileID: 11400000, guid: d7fdd9a42c801de47bf009df094bdabb, type: 2}
+    Unity.XR.PXR.Settings: {fileID: 11400000, guid: 8eb2afd559f21df48b39c740fa941d65, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ff15227bb2715e14e9033f86789b671f, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: e4fdaa98d0a7f714ab8e867d86307ebf, type: 2}
