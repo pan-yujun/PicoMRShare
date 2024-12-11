@@ -86,8 +86,8 @@ namespace HoloShare
 
         public void PlayInteraction()
         {
-            Debug.Log("--------------可能会影响到局域网的功能");
-            //限制LLPFS模式下的触发条件
+            //Debug.Log("--------------可能会影响到局域网的功能");
+            //限制LLPFS模式下的触发条     件
             //if (!_isTouch)
             //    return;
 
